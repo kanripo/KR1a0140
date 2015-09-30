@@ -1,8 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易傳註
-#+DATE: 2015-09-23 09:35:38
-#+PROPERTY: KEY 周易傳註/周易筮考
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 21:59:40.719319
+#+PROPERTY: ID KR1a0140
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 周易筮考周易筮考
 <pb:KR1a0140_WYG_008-1a>¶
 欽定四庫全書¶
 　周易筮考¶
@@ -435,4 +436,3 @@
 　¶
 　¶
 　周易筮考¶
-
